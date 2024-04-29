@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "423367569063",
+    "project_id": "event-management-system-a6ee8",
+    "storage_bucket": "event-management-system-a6ee8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:423367569063:android:861f124145b8a61085f582",
+        "android_client_info": {
+          "package_name": "com.example.ems"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDnBSLgcj_sSvh2amIBKnlTZNqpTcCwWiA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
